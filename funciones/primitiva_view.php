@@ -38,7 +38,7 @@ include 'primitiva.php';
     
 <div class="center-content">
     <div class="content-box">
-      <h3>Número ganador Euromillón</h3>
+      <h3>Número ganador Primitiva</h3>
       <div class="lottery-number">
         <?php echo primitiva(); // Mostrar los números y las estrellas ?>
       </div>
