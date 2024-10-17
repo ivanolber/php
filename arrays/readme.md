@@ -12,4 +12,7 @@ lista desordenada. Para crear un número aleatorio, utiliza la función rand(ini
 – La media
 </p>
 
-<img src="./imagenes/2024-10-17_17-18.png" alt="">
+
+
+
+
