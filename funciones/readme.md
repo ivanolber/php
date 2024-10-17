@@ -72,6 +72,20 @@ izquierda a derecha que de derecha a izquierda, por ejemplo, "ligar es ser agil"
 
 ![image](https://github.com/user-attachments/assets/e803ac7e-ce3f-4728-841b-adb7bdddd568)
 
+<h2>EUROMILLON</h2>
+<p>Deberemos implementar el código HTML con dos enlaces para select_apuesta.html que enlazarán
+a los scripts:
+• primitiva.php encargado de mostrar una apuesta ordenada de lotería primitiva.
+Implementando los módulos del DEM para primitiva.
+• euromillones.php encargado de mostrar una apuesta ordenada de euromillones.
+Implementando los módulos del DEM para euromillones.</p>
+
+
+![image](https://github.com/user-attachments/assets/2be9b4ab-b51d-43ed-8437-f7b33cea9343)
+
+![image](https://github.com/user-attachments/assets/821fbbb2-e3dc-4e45-8ba9-c69920951fc2)
+
+
 
 
 
