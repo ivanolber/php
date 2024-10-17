@@ -12,9 +12,8 @@ lista desordenada. Para crear un número aleatorio, utiliza la función rand(ini
 – La media
 </p>
 
+![image](https://github.com/user-attachments/assets/c89b9b4e-81d1-4e0e-91fa-7cd97577b5f3)
 
-
-![image](https://github.com/user-attachments/assets/d921ed40-b032-48f8-b133-249056076e5e)
 
 <h2>Array Asociativo</h2>
 
